@@ -5,8 +5,6 @@
 
 
 
-
-
 ## Timeline
 ```ob-timeline
 ```
